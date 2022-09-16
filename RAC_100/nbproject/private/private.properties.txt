@@ -1,0 +1,9 @@
+compile.on.save=true
+do.depend=true
+do.jar=true
+file.reference.gnujaxp-1.0.0.jar=C:\\Users\\Thiago\\Desktop\\implenta\u00e7\u00e3o PDI\\gnujaxp-1.0.0.jar
+file.reference.jcommon-1.0.23.jar=C:\\Users\\Thiago\\Desktop\\implenta\u00e7\u00e3o PDI\\jcommon-1.0.23.jar
+file.reference.jfreechart-1.0.19-demo.jar=C:\\Users\\Thiago\\Desktop\\implenta\u00e7\u00e3o PDI\\jfreechart-1.0.19.jar
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/home/thiago/.netbeans/11.2/build.properties
